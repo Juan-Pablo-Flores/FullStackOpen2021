@@ -1,4 +1,4 @@
-# FullStackOpen
+# Full Stack Open 2021
 Exercise submissions for the free online course Full Stack Open 2021
 
 ## To do
